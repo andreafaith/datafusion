@@ -1,4 +1,4 @@
-Running GeoCare.io Application
+# Running GeoCare.io Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
